@@ -73,4 +73,4 @@ Pull requests are welcome! for major changes, please open an issue first to disc
 
 ---
 
-Powered by Akshay AGI LLP
+Powered By Akshay AGI LLP
