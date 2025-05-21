@@ -28,7 +28,7 @@ Navigate to `http://localhost:3000` in your browser.
 
 ## Simulator UI Screenshot
 
-![SWIPT Simulator Screenshot](docs/screenshot.png)
+![SWIPT Simulator Screenshot](screenshot.png)
 
 ---
 
