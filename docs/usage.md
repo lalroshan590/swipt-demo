@@ -27,8 +27,7 @@ Navigate to `http://localhost:3000` in your browser.
 - **Tips:** Use different distributions to observe how real-world channel randomness affects outcomes
 
 ## Simulator UI Screenshot
-
-![SWIPT Simulator Screenshot](docs/screenshot.png)
+docs/simulator-ui.png
 ---
 
 ## 4. Presenting to Investors
