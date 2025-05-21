@@ -75,4 +75,4 @@ Pull requests are welcome! for major changes, please open an issue first to disc
 
 ## License 
 
-© 2025 Akshay AGI LLP. All rights reserved.
+Powered by Akshay AGI LLP
