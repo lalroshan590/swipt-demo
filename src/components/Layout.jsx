@@ -17,7 +17,7 @@ export default function Layout({ children }) {
       </header>
       <main className="p-4 md:p-8 max-w-4xl mx-auto">{children}</main>
       <footer className="text-center text-gray-300 py-4 opacity-70 text-sm">
-        &copy; 2025 Akshay AGI LLP. All rights reserved.
+        Powered By Akshay AGI LLP
       </footer>
     </div>
   );
