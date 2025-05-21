@@ -26,10 +26,6 @@ Navigate to `http://localhost:3000` in your browser.
 - **Mode Display:** Indicates current SWIPT receiver configuration
 - **Tips:** Use different distributions to observe how real-world channel randomness affects outcomes
 
-## Simulator UI Screenshot
-
-![SWIPT Simulator Screenshot](screenshot.png)
-
 ---
 
 ## 4. Presenting to Investors
