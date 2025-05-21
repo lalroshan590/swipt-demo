@@ -38,6 +38,6 @@ Navigate to `http://localhost:3000` in your browser.
 
 ## 5. Next Steps
 
-- **Contact [hello@swipt-tech.com](mailto:hello@swipt-tech.com) for live demo or technical deep dive**
+- **Contact [hello@swipt-tech.com](mailto:roshan@akshayvj.com) for live demo or technical deep dive**
 
 &copy; 2025 Akshay AGI LLP. All rights reserved.
