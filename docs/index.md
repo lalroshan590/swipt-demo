@@ -39,6 +39,9 @@ This simulator demonstrates, in real-time, how SWIPT could revolutionize data ce
 
 All random generator code is modular and extendable for future hardware data integration.
 
+## Simulator UI Screenshot
+
+![SWIPT Simulator Screenshot](docs/screenshot.png)
 ---
 
 ## Extending the Simulator
