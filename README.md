@@ -4,7 +4,6 @@ A next-generation, interactive demonstration of **Simultaneous Wireless Informat
 Designed for rapid, visually compelling demonstrations—ideal for investor presentations (e.g., TechCrunch C Series).
 
 ![Architecture](docs/architecture.png)
-![SWIPT Simulator Screenshot](docs/screenshot.png)
 ---
 
 ## 🚀 Why SWIPT for Data Centers?
