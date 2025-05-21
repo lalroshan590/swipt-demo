@@ -25,12 +25,6 @@ Designed for rapid, visually compelling demonstrations—ideal for investor pres
 
 ---
 
-## Simulator UI Screenshot
-
-![SWIPT Simulator Screenshot](docs/screenshot.png)
-
----
-
 ## 🛠️ Quick Start
 
 ```bash
