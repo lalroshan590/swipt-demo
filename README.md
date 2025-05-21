@@ -25,6 +25,12 @@ Designed for rapid, visually compelling demonstrations—ideal for investor pres
 
 ---
 
+## Simulator UI Screenshot
+
+![SWIPT Simulator Screenshot](docs/screenshot.png)
+
+---
+
 ## 🛠️ Quick Start
 
 ```bash
@@ -64,14 +70,16 @@ Open [http://localhost:3000](http://localhost:3000).
 ## 👩‍💻 Authors & Contact
 
 - Lalroshan590 ([GitHub](https://github.com/lalroshan590))
-- For partnership, demo, or funding inquiries: [Contact Us](mailto:hello@swipt-tech.com)
+- For partnership, demo, or funding inquiries: [Contact Us](mailto:lalroshan@akshayvj.com)
 
 ---
 
-## 🏆 Funding Opportunity
+## Contributing
 
-This project is open for C Series funding to scale SWIPT from prototype to real-world data center deployments.
+Pull requests are welcome! for major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
-&copy; 2025 Akshay AGI LLP. All rights reserved.
+## License 
+
+© 2025 Akshay AGI LLP. All rights reserved.
