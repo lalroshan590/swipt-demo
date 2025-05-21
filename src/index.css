@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* © 2025 Akshay AGI LLP */
+body {
+  font-family: 'Inter', sans-serif;
+}
