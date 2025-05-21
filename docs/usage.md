@@ -40,4 +40,4 @@ Navigate to `http://localhost:3000` in your browser.
 
 - **Contact(mailto:roshan@akshayvj.com) for live demo or technical deep dive**
 
-&copy; 2025 Akshay AGI LLP. All rights reserved.
+Powered by Akshay AGI LLP
