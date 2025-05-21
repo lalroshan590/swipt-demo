@@ -73,6 +73,4 @@ Pull requests are welcome! for major changes, please open an issue first to disc
 
 ---
 
-## License 
-
 Powered by Akshay AGI LLP
